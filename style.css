@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(200, 252, 249);
+  }      
+
+  h1 {
+    font-family: montserrat;
+    text-align: center;
+  }
+
+  p {
+    font-family: rocknroll one;
+  }
+
+  .natural {
+    background-color: rgb(131, 206, 128);
+    font-style: italic;
+  }
+
+  #amo {
+    font-style:italic;
+  }
+
+  #fotinho {
+    float: left;
+  }
